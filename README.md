@@ -1,5 +1,6 @@
 # Disaster Response Pipeline Project
 ### Project structure:
+```bash
  - app
 | - template
 | |- master.html  # main page of web app
@@ -15,7 +16,7 @@
 - models
 |- train_classifier.py
 |- classifier.pkl  # saved model 
-
+``` 
 - README.md
 
 ### Instructions:
